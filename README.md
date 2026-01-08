@@ -26,7 +26,7 @@ Adição de metadados (Data e hora do processamento).
 Carga (Load): Os dados transformados são inseridos em uma tabela SQLite utilizando a estratégia de append, permitindo a construção de um histórico temporal de preços.
 
 📊 Estrutura do Banco de Dados
-A tabela precos_cripto possui a seguinte estrutura: {Coluna}: [Descrição]
+A tabela precos_cripto possui a seguinte estrutura {Coluna}: [Descrição]:
 {moeda}: [Nome da criptomoeda (Primary Key/String)], 
 {preco_usd}: [Valor atual em dólar (Float)],
 {timestamp_api}: [Data da última atualização fornecida pela API],
