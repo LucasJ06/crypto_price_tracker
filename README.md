@@ -1,4 +1,4 @@
-Data Pipeline: Crypto Price Tracker (ETL)
+# Data Pipeline: Crypto Price Tracker (ETL)
 Este projeto demonstra a criação de um pipeline de dados básico seguindo os princípios de ETL (Extract, Transform, Load). O objetivo é capturar preços de criptomoedas em tempo real, processar os dados e armazená-los em um banco de dados relacional para futuras análises.
 
 🛠️ Tecnologias Utilizadas
